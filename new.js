@@ -1,0 +1,1 @@
+console.log("duniya badi ajeeb hai")
