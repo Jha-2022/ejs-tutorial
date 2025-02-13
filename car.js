@@ -7,3 +7,5 @@ const car = [
 for(let i=0; i<car.length; i++){
     console.log("the " +car[i].name +" was launched in the year "+ car[i].year )
 }
+
+console.log("car needs money")
